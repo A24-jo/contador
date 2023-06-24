@@ -1,0 +1,23 @@
+button {
+ display: inline-block;
+ padding: 10px 20px;
+ background-color: #131413;
+ color: rgb(248, 245, 245);
+ text-align: center;
+ text-decoration: none;
+ cursor: pointer;
+ border: 2px solid rgb(90, 207, 211);
+ border-radius: 4px;
+ margin-right: 20px;
+}      
+button:hover {
+        background-color: #2b4075;
+}
+
+.boton-clic {
+    background-color: aqua;
+}
+
+.boton-reiniciar {
+    background-color: rgb(35, 216, 156);
+}
